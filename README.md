@@ -5,6 +5,7 @@ This spreadsheet can be used to further analyze how to manage a successful kicks
 ### Purpose
 Depending on the goals and amount of time spent on gaining backers(aka funding), a person looking to kickstart a play/musical/television show can gather some insight on the goal amount and when to begin.
 ## Analysis and Challenges
+![Data Analysis](https://user-images.githubusercontent.com/103524591/174527684-97d5ed35-b9ec-464e-8025-59e1c5f7eeed.png)
 
 Looking at the graph above you can see that a Theater show has a greater chance of success in the warmer climate areas. Using this information we can help other kickstarting efforts get ahead when deciding to go public with their idea.
      
