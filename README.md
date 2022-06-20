@@ -5,7 +5,7 @@ This spreadsheet can be used to further analyze how to manage a successful kicks
 ### Purpose
 Depending on the goals and amount of time spent on gaining backers(aka funding), a person looking to kickstart a play/musical/television show can gather some insight on the goal amount and when to begin.
 ## Analysis and Challenges
-![](..%5C..%5C..%5C..%5C..%5CPictures%5CData%20Analysis.png)
+
 Looking at the graph above you can see that a Theater show has a greater chance of success in the warmer climate areas. Using this information we can help other kickstarting efforts get ahead when deciding to go public with their idea.
      
 A possible challenge would be for a book writer who is hoping to gain information on kickstarter goal ideas. The information is limited for kickstarters who wish to help fund a book and the specific category that book is in even further restricts the information that can be pulled from this spreadsheet.
