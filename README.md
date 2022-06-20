@@ -12,7 +12,7 @@ Looking at the graph above you can see that a Theater show has a greater chance 
 A possible challenge would be for a book writer who is hoping to gain information on kickstarter goal ideas. The information is limited for kickstarters who wish to help fund a book and the specific category that book is in even further restricts the information that can be pulled from this spreadsheet.
 ### Analysis of Outcomes Based on Launch Date
    When looking at the "Outcomes based on Launch Date" line chart. We can conclude that theater kickstarters have a better chance of success if they are funded during the end of Spring up until the end of Summer. Probably due to weather conditions being more optimal to go places. Second we can state that based on the information in the chart,you should not start a Theater Kickstarter campaign in December. This is because December is the only month to show a significant drop in Successful campaigns while simultaneously an increase in failed outcomes. Every other month on our graph has the successful and failed campaign lines flowing in the same direction relatively speaking (they both either go up or down for the month).
-### Analysis of Outcomes Based on Goals
+## Analysis of Outcomes Based on Goals
     If you look at the Outcomes Based on Goals Sheet, you can see that Plays that were kickstarted with a goal of $20,000 or less had a 50% chance of success. But the chance of success increased when the kickstarter met its goal of less than 5,000. That increased the potential to be successfully funded to 75%.
  
 ## Results
